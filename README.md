@@ -1,5 +1,10 @@
 # ⚡ AI Coding Assistant
 
+🚀 Links
+
+- 🌐 **Live Demo:** https://my-ai-coding-assistant.streamlit.app
+- 💻 **Source Code:** https://github.com/narayanwentianluo-code/ai-coding-assistant
+
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/framework-Streamlit-red.svg)](https://streamlit.io/)
 [![LLM Support](https://img.shields.io/badge/LLM-OpenAI%20%7C%20Ollama%20%7C%20Groq-green.svg)](https://platform.openai.com/)
